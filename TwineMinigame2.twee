@@ -7,11 +7,77 @@ Twine Minigame 2
   "ifid": "d1d488d1-e008-43d0-8226-d7aa8a51892b",
   "format": "SugarCube",
   "format-version": "2.37.3",
+  "start": "Start",
   "zoom": 0.6
 }
 
 
-:: Start {"position":"450,150","size":"100,100"}
-!put your title here
+:: ''5 MINUTES LATER'' {"position":"575,1025","size":"100,100"}
+You check on the sandwhich just as it finishes getting grilled. You unplug the sandwhich maker and finally feast your midnight meal. It is a basic sandwhich, but you haven't had in a while, so you savor every morsel of it.
+After finishing the sandwhich, you clean up after yourself and put everything back before [[quietly heading to your room.]]
 
-Start writing your story here :)
+
+:: 5 MINUTES LATER {"position":"700,1025","size":"100,100"}
+
+
+
+:: Bread {"position":"575,900","size":"100,100"}
+You grab the pack of bread and take two slices out for your meal. You prepare your sandwhich and put your slcies of ham & cheese in between. You then turn on your sanwhich maker to heat it up, which fortunately isn't very loud. Now, you just sit back and wait.
+[[5 MINUTES LATER]]
+
+
+:: Chips {"position":"700,900","size":"100,100"}
+You change your plans & decide to just have a bag of chips instead. You take the bag, but despite how careful you are, the bag opens with a loud ''RIIIP''.
+A minute later, you hear your mom's bedroom door open, and you knew you were caught in the act. [[The hallway lights turn on, feeling like a flashbang on your eyes. ->get some more ingredients.]] 
+
+
+:: Continue to the kitchen {"position":"575,400","size":"100,100"}
+Entering the kitchen, you set your phone down on the counter and go to see your options, [[quietly walking towards the fridge.]]
+
+
+:: Give In {"position":"450,400","size":"100,100"}
+You walk towards him & gently pat him on the head. He's startled, but still happy to see you, purring a little as you scratch his neck. With that, you go back to [[what you should be doing.->carefully opening your bedroom door.]]
+
+
+:: Ham {"position":"575,650","size":"100,100"}
+Seeing the pack of ham, you get an idea to make a simple ham sandwhich. You take hte pack along with some cheese and set it on the counter to [[get some more ingredients.]]
+
+
+:: Milk {"position":"700,650","size":"100,100"}
+You thought of getting a glass of milk with your food as well. You grabbed the milk in the very back of the fridge, but as you pour it in a cup, you get a thought to check its expiration date. You're glad you followed this random thought, because this carton expired a bit ago! You quickly dump the carton and go to wash the cup.
+[[There goes that plan.->quietly walking towards the fridge.]]
+
+
+:: Start {"position":"450,150","size":"100,100"}
+!A search for a midnight snack
+
+You wake up in the middle of the night and feel your stomach grumble a little, slowly realizing you're hungry. Knowing you can't fall asleep with an empty stomach, you decide to get out of bed decide head to the kitchen to get something to eat. You get your phone to use as a flashlight before [[carefully opening your bedroom door.]]
+
+
+:: carefully opening your bedroom door. {"position":"450,275","size":"100,100"}
+You quietly walk into your living room, grateful that the door didn't creak at all. While walking to the kitchen, you spot your cat sleeping peacfully on the couch. You feel tempted to go and pet him - I mean, look how cute he looked curled up!
+
+[[Give In]]
+[[Continue to the kitchen]]
+
+
+:: get some more ingredients. {"position":"575,775","size":"100,100"}
+!Checking the Pantry
+There isn't much in the pantry to work with right now, but there's two things that peak your interest.
+[[Bread]]
+[[Chips]]
+
+
+:: quietly heading to your room. {"position":"575,1150","size":"100,100"}
+You shut the door behind you and get cozy in bed, feeling yourself already drifitng off to sleep. Although this quest didn't take very long, it felt nice being alone with just you and your thoughts after a while - and above all, you felt satisfied sleeping on a full stomach.
+
+''THE END''
+
+
+:: quietly walking towards the fridge. {"position":"575,525","size":"100,100"}
+!Opening the Fridge
+
+You carefully open the fridge and see several options, //but there's only a few you got your eyes on.//
+
+[[Ham]]
+[[Milk]]

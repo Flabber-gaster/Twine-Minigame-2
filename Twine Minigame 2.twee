@@ -1,0 +1,64 @@
+:: StoryTitle
+Twine Minigame 2
+
+
+:: StoryData
+{
+  "ifid": "d1d488d1-e008-43d0-8226-d7aa8a51892b",
+  "format": "SugarCube",
+  "format-version": "2.37.3",
+  "start": "Start",
+  "zoom": 0.6
+}
+
+
+:: Check Shelves {"position":"700,525","size":"100,100"}
+
+
+
+:: Continue to the kitchen {"position":"575,400","size":"100,100"}
+Entering the kitchen, you set your phone down on the counter and go to see your options. There is the fridge, of course, but there's some food on the shelves too.
+
+[[Open Fridge]]
+[[Check Shelves]]
+
+
+:: Give In {"position":"450,400","size":"100,100"}
+You walk towards him & gently pat him on the head. He's startled, but still happy to see you, purring a little as you scratch his neck. With that, you go back to [[what you should be doing.->carefully opening your bedroom door.]]
+
+
+:: Ham {"position":"575,650","size":"100,100"}
+You see a pack of ham & get an idea to make a simple ham sandwhich. You take the pack along with some cheese and set it on the counter to [[get some bread.]]
+
+
+:: Milk {"position":"700,650","size":"100,100"}
+
+
+
+:: Open Fridge {"position":"575,525","size":"100,100"}
+You carefully open the fridge and see several options, //but there's only a few you got your eyes on.//
+
+[[Ham]]
+[[Milk]]
+[[Waffles]]
+
+
+:: Start {"position":"450,150","size":"100,100"}
+!A search for a midnight snack
+
+You wake up in the middle of the night and feel your stomach grumble a little, slowly realizing you're hungry. Knowing you can't fall asleep with an empty stomach, you decide to get out of bed decide head to the kitchen to get something to eat. You get your phone to use as a flashlight before [[carefully opening your bedroom door.]]
+
+
+:: Waffles {"position":"450,650","size":"100,100"}
+You spot the waffles & think
+
+
+:: carefully opening your bedroom door. {"position":"450,275","size":"100,100"}
+You quietly walk into your living room, grateful that the door didn't creak at all. While walking to the kitchen, you spot your cat sleeping peacfully on the couch. You feel tempted to go and pet him
+
+[[Give In]]
+[[Continue to the kitchen]]
+
+
+:: get some bread. {"position":"575,775","size":"100,100"}
+
